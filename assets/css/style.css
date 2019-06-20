@@ -1,0 +1,53 @@
+.yo {
+  background-image: url(../img/angela.jpg);
+  height: 1200px;
+   background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 550px;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  padding-left: 30px;
+}
+.nav-link {
+  font-family: 'Lobster', cursive;
+}
+.linea-1 {
+  border: 2px solid white;
+  width: 23%;
+}
+
+.linea {
+  border: 2px solid white;
+  width: 10%;
+}
+
+.linea-negra{
+  border: 1px solid black;
+  width: 10%;
+}
+
+footer {
+  height: 100px;
+}
+
+h5 {
+  font-family: 'Abril Fatface', cursive;
+
+}
+h4 {
+font-family: 'Oswald', sans-serif;
+}
+
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+h2{
+  font-family: 'Abril Fatface', cursive;
+}
+p {
+  font-family: 'Oswald', sans-serif;
+
+}
